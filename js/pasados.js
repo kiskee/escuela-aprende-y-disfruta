@@ -1,5 +1,5 @@
 //Define las variables que necesites
-
+var antiguosEventos = []
 $(document).ready(function () {
 
   //Carga los datos que estan en el JSON (info.json) usando AJAX
